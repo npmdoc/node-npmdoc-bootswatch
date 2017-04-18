@@ -1,9 +1,14 @@
-# api documentation for  [bootswatch (v3.3.7)](http://bootswatch.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-bootswatch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bootswatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bootswatch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bootswatch)
+# npmdoc-bootswatch
+
+#### api documentation for  [bootswatch (v3.3.7)](http://bootswatch.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-bootswatch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bootswatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bootswatch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bootswatch)
+
 #### Bootswatch is a collection of themes for Bootstrap.
 
-[![NPM](https://nodei.co/npm/bootswatch.png?downloads=true)](https://www.npmjs.com/package/bootswatch)
+[![NPM](https://nodei.co/npm/bootswatch.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bootswatch)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-bootswatch/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-bootswatch_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-bootswatch/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-bootswatch/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-bootswatch/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-bootswatch/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-bootswatch/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-bootswatch/build/screenCapture.npmPackageListing.svg)
 
@@ -48,17 +53,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "robloach",
-            "email": "robloach@gmail.com"
+            "name": "robloach"
         },
         {
-            "name": "thomaspark",
-            "email": "hello@thomaspark.me"
+            "name": "thomaspark"
         }
     ],
     "name": "bootswatch",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/thomaspark/bootswatch.git"
@@ -67,16 +69,6 @@
     "version": "3.3.7"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module bootswatch](#apidoc.module.bootswatch)
-
-
-
-# <a name="apidoc.module.bootswatch"></a>[module bootswatch](#apidoc.module.bootswatch)
 
 
 
