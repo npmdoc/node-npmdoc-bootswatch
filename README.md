@@ -1,6 +1,6 @@
 # npmdoc-bootswatch
 
-#### api documentation for  [bootswatch (v3.3.7)](http://bootswatch.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-bootswatch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bootswatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bootswatch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bootswatch)
+#### basic api documentation for  [bootswatch (v3.3.7)](http://bootswatch.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-bootswatch.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-bootswatch) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-bootswatch.svg)](https://travis-ci.org/npmdoc/node-npmdoc-bootswatch)
 
 #### Bootswatch is a collection of themes for Bootstrap.
 
@@ -66,7 +66,8 @@
         "url": "git+https://github.com/thomaspark/bootswatch.git"
     },
     "scripts": {},
-    "version": "3.3.7"
+    "version": "3.3.7",
+    "bin": {}
 }
 ```
 
